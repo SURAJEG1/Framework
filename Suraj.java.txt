@@ -3,6 +3,8 @@ class Suraj{
 public static void main(String[] arg){
 
 System.out.println("Hello Suraj");
+System.out.println("Hello World");
+
 
 
 }
