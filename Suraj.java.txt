@@ -1,10 +1,9 @@
-class Suraj{
+Public class Suraj{
 
-public static void main(String[] arg){
+     public static void main(String[] arg){
 
-System.out.println("Hello Suraj");
-System.out.println("Hello World");
-
+           System.out.println("Hello Suraj");
+           System.out.println("Hello World");
 
 
 }
