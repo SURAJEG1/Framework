@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 30 17:10:22 IST 2025
+failsafe-3.3.2-javadoc.jar>central=
+failsafe-3.3.2-sources.jar>central=
+failsafe-3.3.2.jar>central=
+failsafe-3.3.2.pom>central=
